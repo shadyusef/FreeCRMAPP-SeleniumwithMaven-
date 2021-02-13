@@ -1,0 +1,3 @@
+com\FreeCRM\util\TestUtils.class
+com\FreeCRM\TestBase\TestBase.class
+com\FreeCRM\util\WebListener.class

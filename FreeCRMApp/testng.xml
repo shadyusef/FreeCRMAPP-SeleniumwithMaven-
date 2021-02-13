@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Free CRM Application">
+  <test thread-count="5" name="End to End test">
+        <classes>
+              <class name="com.FreeCRM.testcases.ContactTestPage"/>
+             <class name="com.FreeCRM.testcases.LoginPageTest"/>
+      <class name="com.FreeCRM.testcases.HomePage"/>
+    </classes>
+  </test> <!-- End to End test -->
+</suite> <!-- Free CRM Application -->
